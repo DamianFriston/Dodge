@@ -1,0 +1,51 @@
+body {
+
+	background-image: url(trainglify.png);
+	background-size: 100vw 100vh;
+	font-family: 'Jura', sans-serif;
+}
+
+.modalbox {
+
+	top:10%;
+	outline: none;
+	overflow:hidden;		
+}
+
+
+.centerall {
+
+	text-align: center;
+	margin: 0 auto;
+}
+
+.modal-backdrop {
+   color: red;
+}
+
+.btngreen {
+
+	background-color: #4ebf50;
+	border-color: #4ebf50;
+}
+
+.btnred {
+
+	background-color: #989898;
+	border-color: #989898;
+}
+
+.btngreen:hover {
+
+	background-color: #327a33;
+	border-color: #327a33;
+		
+}
+
+.btnred:hover {
+
+	background-color: #686868; 
+	border-color: #686868;
+
+	
+}
